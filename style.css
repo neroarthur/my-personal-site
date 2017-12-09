@@ -10,7 +10,6 @@
 }
 
 #content {
-  border: 1px solid blue;
   position: relative;
   top: 78px;
   padding: 15px;
@@ -62,7 +61,7 @@ li:hover a {
 }
 
 #my-avatar img {
-  width: 200px;
+  width: 400px;
 }
 
 h1 {
