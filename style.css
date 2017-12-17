@@ -165,3 +165,9 @@ td {
 .form-row button:active {
  background-color: #407fc7; 
 }
+
+@media screen and (max-width: 1023px) {
+  .container {
+    width: auto;
+  }
+}
